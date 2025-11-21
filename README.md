@@ -8,5 +8,6 @@ A very clear breakdown and implementation:
 
 https://aams-eam.pages.dev/posts/the-art-of-password-cracking_rainbow-tables/
 
+https://kestas.kuliukas.com/RainbowTables/
 
 https://gist.github.com/lgommans/83cbb74a077742be3b31d33658f65adb
